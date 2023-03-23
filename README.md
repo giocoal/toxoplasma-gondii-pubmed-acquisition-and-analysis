@@ -1,4 +1,4 @@
-# Toxoplasma Gondii: Taxonomy and PubMed Acquisition and Analysis
+# Toxoplasma Gondii: Taxonomy and PubMed Data Acquisition and Analysis
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
