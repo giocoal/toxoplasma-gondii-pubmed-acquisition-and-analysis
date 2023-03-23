@@ -11,7 +11,6 @@ Toxoplasma gondii is a parasitic protozoan that can cause serious health problem
 
 Although many people infected with Toxoplasma gondii may not show any symptoms, the parasite can cause serious health problems, especially in individuals with weakened immune systems. In pregnant women, Toxoplasma gondii infection can lead to congenital toxoplasmosis, which can cause severe birth defects or even miscarriage. In addition, Toxoplasma gondii has been linked to several psychiatric and neurological disorders, including schizophrenia and bipolar disorder. Some studies suggest that the parasite may alter the behavior of its host to increase its chances of being eaten by a cat, which is essential for the parasite's survival and reproduction.
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/giocoal/toxoplasma-gondii-pubmed-acquisition-and-analysis.svg?style=for-the-badge
